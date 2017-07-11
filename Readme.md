@@ -14,7 +14,7 @@ Sverchok [http://nikitron.cc.ua/sverchok_en.html]()! Blender!
 
 Now a party in SuperCollider.
 
-Blender spikes. Love and Peace.
+Blender spikes. Hugs!
 
 ## thanks
 
